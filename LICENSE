@@ -1,0 +1,147 @@
+GNU GENERAL PUBLIC LICENSE
+Version 2, June 1991
+
+Copyright (C) 2012 Werner Schweer
+Copyright (C) 2013-2021 Joachim Schmitz
+Copyright (C) 2014 Jörn Eichler
+Copyright (C) 2020 Johan Temmerman
+Copyright (C) 2024 Faris Munir Mahdi
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307 USA
+
+---
+
+GNU GENERAL PUBLIC LICENSE
+Version 2, June 1991
+
+Copyright (C) 1989, 1991 Free Software Foundation, Inc.
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+GNU GENERAL PUBLIC LICENSE
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+0. Definitions
+
+"The Program" refers to any copyrightable work licensed under this License.
+Each licensee is addressed as "you".
+
+"License" refers to this License.
+
+"Licensed Program" means the Program licensed to you under this License.
+
+"Contributor" means any person or entity who creates or contributes to the creation of Modifications.
+
+"Modifier" means any person or entity who creates or contributes to the creation of Modifications.
+
+"Modifications" means any addition to or deletion from the substance or structure of either the Original Code or any previous Modifications.
+
+"Source Code" means the preferred form of the Program for making modifications to it, including all modules it contains, plus any associated interface definition files, plus the scripts used to control compilation and installation of the executable object code.
+
+"Object Code" means the compiled form of the Source Code.
+
+"Executable" means the Executable form of the Object Code.
+
+"Original Code" means the Source Code of a program at the time of its release under this License.
+
+"Original Author" means the individual or entity that created the Original Code.
+
+"Patent Claim" means any patent claim licensable by the Original Author that would be infringed but for this License.
+
+"Recipient" means anyone who receives the Licensed Program under this License, including all Contributors.
+
+1. SOURCE CODE LICENSE
+
+The Original Author hereby grants you a world-wide, royalty-free, non-exclusive license, subject to third party intellectual property claims:
+
+(a) to use, reproduce, modify, display, perform, sublicense and distribute the Original Code (or portions thereof) with or without modifications, and/or as part of a larger work; and
+
+(b) under patents now or hereafter owned or controlled by the Original Author, to make, have made, use and sell ("Utilize") the Original Code (or portions thereof), but solely to the extent that any such patent is reasonably necessary to enable you to Utilize the Original Code (or portions thereof) and not to exceed the scope of the license granted above.
+
+2. SOURCE CODE LICENSE RESTRICTIONS
+
+The license granted in Section 1 above is expressly made subject to and limited by the following restrictions:
+
+(a) You must satisfy the following conditions with respect to the Original Code:
+
+(i) You must notify the Original Author in writing of any modification you make to the Original Code or any Original Author-asserted patent claim and that you have made such modification; and
+
+(ii) You must reproduce all the notices, including copyright notices, patent notices, disclaimers of warranty, and limitations of liability, on the Original Code and any modification you make to the Original Code, in the same form as they appear in the Original Code.
+
+(iii) You must make the Source Code of the Licensed Program available to anyone to whom you make the Licensed Program available, at no charge and with no strings attached, including the full source code of all Modifications you make to the Licensed Program, in the form most convenient for further modification.
+
+(b) You must duplicate, to the extent it is feasible for you to do so, all copyright notices, patent notices, disclaimers of warranty, and limitations of liability, from the Original Code to your Modifications, including any added files.
+
+(c) You must cause any modified files to carry prominent notices stating that you changed the files and the date of any change.
+
+(d) You must at all times comply with the requirements of Section 1.4. Except as explicitly licensed herein, you have no other licenses or rights to the Original Code or any Modifications, and the Original Author reserves all rights not explicitly granted under this License.
+
+3. DISTRIBUTION RESTRICTIONS
+
+(a) You may distribute the Licensed Program in Object Code form under the terms of Sections 1 and 2 above provided that you diligently take reasonable steps to ensure that this License will not be endangered because of technical limitations or other obstacles.
+
+(b) You may distribute the Licensed Program as part of a larger (possibly commercial) software distribution if and only if that distribution makes the Licensed Program separately available without a fee, and permits recipients to make the Licensed Program available separately from that distribution without a fee.
+
+(c) You are not allowed to distribute the Licensed Program on a medium customarily used for software interchange if the medium customarily includes an offer to sell, lease or otherwise transfer a software mechanism or system that can be used to make the Licensed Program perform any of the limited functions described in the section titled "LIMITED FUNCTIONS" below.
+
+4. LIMITED FUNCTIONS
+
+The Licensed Program is not designed or intended to perform the following limited functions:
+
+(a) Disclose confidential or sensitive information; or
+
+(b) Compromise the security of any system or data; or
+
+(c) Infringe any patent, trademark, or copyright of any other party.
+
+5. UPGRADES AND ADDITIONAL FUNCTIONALITY
+
+The Original Author is not obligated to provide upgrades, enhancements, or additional functionality to the Licensed Program under the terms of this License.
+
+6. DISCLAIMER OF WARRANTY
+
+THE LICENSED PROGRAM IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, NONINFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+7. LIMITATION OF LIABILITY
+
+IN NO EVENT WILL THE ORIGINAL AUTHOR OR ANY CONTRIBUTOR BE LIABLE TO YOU FOR ANY DAMAGES, INCLUDING ANY LOST PROFITS, LOST SAVINGS OR OTHER INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE LICENSED PROGRAM (EVEN IF THE ORIGINAL AUTHOR OR ANY CONTRIBUTOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), OR CLAIMS BY ANY THIRD PARTY, EXCEPT TO THE EXTENT THAT ANY SUCH DAMAGES ARE REQUIRED TO BE PAID BY APPLICABLE LAW.
+
+8. TERMINATION
+
+(a) This License will automatically terminate upon a material breach of its terms and may be terminated by the Original Author or any Contributor upon 30 days written notice to you.
+
+(b) Upon termination of this License, you shall destroy all copies of the Licensed Program and all derivative works thereof, and certify to the Original Author in writing that such destruction has taken place.
+
+9. U.S. GOVERNMENT END USERS
+
+The Licensed Program is a "commercial item," as that term is defined in 48 C.F.R. 2.101 (Oct. 1995), consisting of "commercial computer software" and "commercial computer software documentation," as such terms are used in 48 C.F.R. 12.212 (Sept. 1995). Consistent with 48 C.F.R. 12.212 and 48 C.F.R. 227.7202-1 through 227.7202-4 (June 1995), all U.S. Government End Users acquire the Licensed Program with only those rights set forth herein.
+
+10. MISCELLANEOUS
+
+This License represents the complete and entire understanding of the parties with respect to the Licensed Program and supersedes all prior negotiations, understandings and agreements between the parties.
+
+This License may be modified only in writing signed by both parties.
+
+The Licensed Program is subject to U.S. export control laws and may be subject to U.S. or local country export regulations. You agree to comply with all applicable export control laws, regulations and rules.
+
+You agree to comply with all applicable laws, regulations, rules and other requirements, including, but not limited to, those relating to the environment, trade, and taxation.
+
+Any law or regulation that applies to the Licensed Program, through operation of law or otherwise, shall be binding upon and inure to the benefit of the parties hereto, including the Original Author and all Contributors.
+
+11. NO WAIVER
+
+ Failure to enforce any provision of this License shall not be deemed a waiver of future enforcement of that or any other provision.
+
+12. ENTIRE AGREEMENT
+
+This License constitutes the entire agreement between the parties hereto relating to the Licensed Program and supersedes all prior or contemporaneous understandings, statements and agreements, whether oral or written, pertaining to the Licensed Program.
+
+By using the Licensed Program, you acknowledge that you have read this License, understand it, and agree to be bound by its terms and conditions.
+
+END OF TERMS AND CONDITIONS
