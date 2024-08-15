@@ -1,5 +1,3 @@
-Here is a detailed README.md for the Note Names Plugin:
-
 # **Note Names Plugin**
 
 ## **Overview**
